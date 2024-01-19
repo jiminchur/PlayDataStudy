@@ -1,5 +1,5 @@
 # PlayDataStudy
-[PlayData]_[Data_Engineering_Track_28] 부트캠프 (2023.09.28~2024.03.22)
+[PlayData]_[Data_Engineering_Track_28] 부트캠프 (2023.09.28~2024.03.22)               
 데이터 엔지니어링 트렉 28기에서 배운 수업내용 정리 Repository입니다.
 
 # Linux
